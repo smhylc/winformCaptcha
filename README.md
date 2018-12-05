@@ -1,1 +1,2 @@
-# winformCaptcha 
+WinFormCaptcha --> Windows Captcha examples. 
+
