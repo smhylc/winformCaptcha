@@ -1,0 +1,10 @@
+c:\users\wgsu\source\repos\winformCaptcha\winformCaptcha\bin\Debug\winformCaptcha.exe.config
+c:\users\wgsu\source\repos\winformCaptcha\winformCaptcha\bin\Debug\winformCaptcha.exe
+c:\users\wgsu\source\repos\winformCaptcha\winformCaptcha\bin\Debug\winformCaptcha.pdb
+c:\users\wgsu\source\repos\winformCaptcha\winformCaptcha\obj\Debug\winformCaptcha.csprojAssemblyReference.cache
+c:\users\wgsu\source\repos\winformCaptcha\winformCaptcha\obj\Debug\winformCaptcha.Properties.Resources.resources
+c:\users\wgsu\source\repos\winformCaptcha\winformCaptcha\obj\Debug\winformCaptcha.csproj.GenerateResource.cache
+c:\users\wgsu\source\repos\winformCaptcha\winformCaptcha\obj\Debug\winformCaptcha.csproj.CoreCompileInputs.cache
+c:\users\wgsu\source\repos\winformCaptcha\winformCaptcha\obj\Debug\winformCaptcha.exe
+c:\users\wgsu\source\repos\winformCaptcha\winformCaptcha\obj\Debug\winformCaptcha.pdb
+c:\users\wgsu\source\repos\winformCaptcha\winformCaptcha\obj\Debug\winformCaptcha.winformCaptcha.resources
